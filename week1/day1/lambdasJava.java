@@ -1,3 +1,4 @@
+package week1.day1;
 import java.math.BigDecimal;
 
 interface CalculadorComision {
